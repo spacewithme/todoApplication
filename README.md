@@ -25,6 +25,23 @@ A Task Manager application built with Spring Boot, Hibernate, JWT authentication
 
 **Frontend** (`index.html`) is served as a static file from User Service (`:8081`) and communicates directly with both User Service and Task Service.
 
+## Screenshots
+
+**Login**
+![Login page](screenshots/login.png)
+
+**Register**
+![Register page](screenshots/register.png)
+
+**Dashboard — empty state**
+![Empty dashboard](screenshots/dashboard-empty.png)
+
+**Dashboard — with a task**
+![Dashboard with task](screenshots/dashboard-with-task.png)
+
+**Edit task modal**
+![Edit task modal](screenshots/edit-task-modal.png)
+
 ## Services
 
 | Service | Port | Responsibility |
